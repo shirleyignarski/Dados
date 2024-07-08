@@ -1,19 +1,19 @@
 # depslib dependency file v1.0
-1625863837 source:c:\users\larac\onedrive\faculta\menuejemplo\main.cpp
+1625863837 source:c:\users\shirleyignarski\onedrive\faculta\menuejemplo\main.cpp
 	<iostream>
 	"funciones.h"
 
-1275488132 c:\users\larac\onedrive\faculta\menuejemplo\funciones.h
+1275488132 c:\users\shirleyignarski\onedrive\faculta\menuejemplo\funciones.h
 	<windows.h>
 
-1626504484 source:c:\users\larac\onedrive\faculta\tpfinaldados\main.cpp
+1626504484 source:c:\users\shirleyignarski\onedrive\faculta\tpfinaldados\main.cpp
 	<stdlib.h>
 	<iostream>
 	"rlutil.h"
 	"funciones.h"
 	<time.h>
 
-1571584339 c:\users\larac\onedrive\faculta\tpfinaldados\rlutil.h
+1571584339 c:\users\shirleyignarski\onedrive\faculta\tpfinaldados\rlutil.h
 	<iostream>
 	<string>
 	<cstdio>
@@ -27,7 +27,7 @@
 	<sys/types.h>
 	<sys/time.h>
 
-1626504569 c:\users\larac\onedrive\faculta\tpfinaldados\funciones.h
+1626504569 c:\users\shirleyignarski\onedrive\faculta\tpfinaldados\funciones.h
 	<stdlib.h>
 	<iostream>
 	"rlutil.h"
